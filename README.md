@@ -17,7 +17,7 @@
 
 
 - My brother also convinced me to start, even though 
-- he doesn't like Java himself: D always wanted to get
+- he doesn't like Java himself :D always wanted to get
 - me on Java Script too and C # and C ++ like him
 
 ## Future projects
