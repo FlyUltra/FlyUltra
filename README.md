@@ -27,3 +27,4 @@
 - Remake my Discord server (for Developers)
 - Redesign Nordic mythology into a minecraft
 - And more Advanced MC plugins
+- Web for my community 
