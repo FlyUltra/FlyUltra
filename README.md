@@ -6,19 +6,14 @@
 ## Im Java Developer
 
 - I code in IntelliJ
-- Spring | Spigot | JavaFX
-- Im 14 yo
+- Spring | Spigot | JavaFX | GraphQl
+- Im 15 yo
 
 ## How did I get into programming in Java?
 
 - I had a friend who programmed in Java Spigot was 
 - really good at it and showed me how to start 
 - and then I started to expand my skills
-
-
-- My brother also convinced me to start, even though 
-- he doesn't like Java himself :D always wanted to get
-- me on JavaScript too and C # and C ++ like him
 
 ## Future projects
 
