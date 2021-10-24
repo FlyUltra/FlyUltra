@@ -1,13 +1,15 @@
 ### Hello and welcome on my github.
 ## My name is Fly_Ultra
-## I am currently programming for ForestCraft.cz and Unicraft-World.eu
 
 
-## Im Java Developer
+## Im Java & JS & Kotlin Developer
 
-- I code in IntelliJ
-- Spring | Spigot | JavaFX | GraphQl
-- Im 15 yo
+☕ Java | Spigot | FX | Spring | Graphql 
+   Bungee
+☕ Kotlin 
+🎪 JavaScript | Vue.js
+💊 Python basics
+📐 SQL, MongoDB
 
 ## How did I get into programming in Java?
 
