@@ -11,16 +11,9 @@
 💊 Python basics
 📐 SQL, MongoDB
 
-## How did I get into programming in Java?
-
-- I had a friend who programmed in Java Spigot was 
-- really good at it and showed me how to start 
-- and then I started to expand my skills
-
 ## Future projects
 
-- Web about me 
-- Advanced Discord bot
-- Remake my Discord server (for Developers)
-- And more Advanced MC plugins
-- Web for my community 
+- Web about me (vue)
+- More plugins (spigot, bungee)
+- Advanced Security System (spigot)
+- Admin-Panel (react)
