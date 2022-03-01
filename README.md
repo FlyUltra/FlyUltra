@@ -25,7 +25,7 @@
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlyUltra&theme=github_dark&layout=compact)
 
 
-#### Why don't I have public projects?
+#### Why I dont have public projects?
 I have an agreement with the people 
 I work with that we will not give projects open, 
 but you can expect that sometimes I throw something for you here
