@@ -18,17 +18,26 @@
       Vue.js
       basic Angular
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlyUltra&theme=github_dark&show_icons=true)
+
+
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlyUltra&theme=github_dark&layout=compact)
+
+
 #### Why don't I have public projects?
 I have an agreement with the people 
 I work with that we will not give projects open, 
 but you can expect that sometimes I throw something for you here
 
 
-<p><a href="https://www.instagram.com/fly_ultra" target="_blank">Instagram</a>
+<p> 
 
-<a href="https://gitlab.com/Flajus" target="_blank">GitLab</a>
+### <a href="https://www.instagram.com/fly_ultra" target="_blank">Instagram</a>
 
-<a href="https://www.spigotmc.org/members/fly_ultra.449678/" target="_blank">Spigot</a>
+### <a href="https://gitlab.com/Flajus" target="_blank">GitLab</a>
+
+### <a href="https://www.spigotmc.org/members/fly_ultra.449678/" target="_blank">Spigot</a>
 </p>
 
 
