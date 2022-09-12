@@ -37,7 +37,7 @@ but you can expect that sometimes I throw something for you here
 
 ### <a href="https://gitlab.com/Flajus" target="_blank">GitLab</a>
 
-### <a href="https://www.spigotmc.org/members/fly_ultra.449678/" target="_blank">Spigot</a>
+### <a href="https://www.spigotmc.org/members/foresttech.188136/" target="_blank">ForestTech Spigot</a>
 </p>
 
 
