@@ -8,15 +8,18 @@
       C#: 7 months
 
 
-#### Libraries
+#### Libraries / APIs
+      basics Velocity API
       Spigot API
       Bungee API
       JDA
       Hikari
       JavaFX
-      Node.js
-      Vue.js
-      basic Angular
+      Node
+      Vue
+      Angular
+      JSON
+      Redis
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlyUltra&theme=github_dark&show_icons=true)
 
