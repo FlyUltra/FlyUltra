@@ -38,7 +38,3 @@ Im studing Architecture on high school.<br>
 * <a href="https://gitlab.com/Flajus" target="_blank">GitLab</a>
 * <a href="https://www.spigotmc.org/members/foresttech.188136/" target="_blank">ForestTech Spigot</a>
 * <a href="https://www.linkedin.com/in/filip-zeman-310286246/" target="_blank">LinkedIn</a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlyUltra&theme=github_dark&show_icons=true) 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlyUltra&theme=github_dark&layout=compact)
-
