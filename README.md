@@ -1,46 +1,43 @@
-<h1 text>Welcome on profile</h1>    
+<h1 text>🤗 Hello, and welcome!</h1>    
 
-#### Im Java, Kotlin, JS, C, C# Developer
-      Java: 5+ years ❤
-      Kotlin: 1 year
-      JS: +-1 year
-      C: 4 months
-      C#: 7 months
+I'm Medior Software Engineer, Junior Project Manager.<br>
+I'm 17 years old boy, from Czech Republic.<br>
+In my free time I do MMA (BJJ, MT, WG).<br>
+Im studing Architecture on high school.<br>
 
+<h2 text>😏 What do I know so far</h2>
 
-#### Libraries / APIs
-      basics Velocity API
-      Spigot API
-      Bungee API
-      JDA
-      Hikari
-      JavaFX
-      Node
-      Vue
-      Angular
-      JSON
-      Redis
+* Java: 6 years ❤
+* Kotlin: 2 years
+* JS: +-2/3 years ❤
+* C#: 1 year
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlyUltra&theme=github_dark&show_icons=true)
+<h2>📕 The libraries/APIs that I work with, or have worked with.</h2>
 
+* Velocity API
+* Spigot API
+* Bungee API
+* JDA
+* Hikari
+* JavaFX
+* Node
+* Vue
+* Angular
+* React
+* JSON
+* Redis
 
+<h2>🔧 I’m currently working in</h2>
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlyUltra&theme=github_dark&layout=compact)
+* <a href="https://github.com/ForestTechMC" target="_blank">ForestTech</a>
+* <a href="https://github.com/DevSchool" target="_blank">DevSchool</a>
 
+<h2>📐 Other links</h2>
 
-#### Why I dont have public projects?
-I have an agreement with the people 
-I work with that we will not give projects open, 
-but you can expect that sometimes I throw something for you here
+* <a href="https://www.instagram.com/fly_ultra" target="_blank">Instagram</a>
+* <a href="https://gitlab.com/Flajus" target="_blank">GitLab</a>
+* <a href="https://www.spigotmc.org/members/foresttech.188136/" target="_blank">ForestTech Spigot</a>
+* <a href="https://www.linkedin.com/in/filip-zeman-310286246/" target="_blank">LinkedIn</a>
 
-
-<p> 
-
-### <a href="https://www.instagram.com/fly_ultra" target="_blank">Instagram</a>
-
-### <a href="https://gitlab.com/Flajus" target="_blank">GitLab</a>
-
-### <a href="https://www.spigotmc.org/members/foresttech.188136/" target="_blank">ForestTech Spigot</a>
-</p>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlyUltra&theme=github_dark&show_icons=true) ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlyUltra&theme=github_dark&layout=compact)
 
