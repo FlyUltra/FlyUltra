@@ -1,7 +1,7 @@
 <h1 text>🤗 Hello, and welcome!</h1>    
 
 I'm Medior Software Engineer, Junior Project Manager.<br>
-I'm 17 years old boy, from Czech Republic.<br>
+I'm 16 years old boy, from Czech Republic.<br>
 In my free time I do MMA (BJJ, MT, WG).<br>
 Im studing Architecture on high school.<br>
 
@@ -29,6 +29,7 @@ Im studing Architecture on high school.<br>
 
 <h2>🔧 I’m currently working in</h2>
 
+* <a href="https://forestcraft.cz/" target="_blank">ForestCraft</a>
 * <a href="https://github.com/ForestTechMC" target="_blank">ForestTech</a>
 * <a href="https://github.com/DevSchool" target="_blank">DevSchool</a>
 
@@ -38,3 +39,5 @@ Im studing Architecture on high school.<br>
 * <a href="https://gitlab.com/Flajus" target="_blank">GitLab</a>
 * <a href="https://www.spigotmc.org/members/foresttech.188136/" target="_blank">ForestTech Spigot</a>
 * <a href="https://www.linkedin.com/in/filip-zeman-310286246/" target="_blank">LinkedIn</a>
+
+
