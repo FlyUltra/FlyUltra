@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filip "Fly" Zeman</h1>
-<h3 align="center">Im mainly SoftWare Developer</h3>
+<h3 align="center">Im mainly SoftWare Engineer</h3>
 
 
 - 🔭 I’m currently working on [iVantional](https://github.com/iVantional)
