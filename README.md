@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Filip "Fly" Zeman</h1>
 <h3 align="center">Im mainly SoftWare Engineer</h3>
 
+- 🔭 I’m currently Developer/Co-Founder for cool advanced projects with Redis, and more on [ForestTech](https://github.com/ForestTechMC)
 
-- 🔭 I’m currently working on [iVantional](https://github.com/iVantional)
+- 🔭 I’m currently Instructor in [DevSchool](https://github.com/DevSchoolCZ)
 
-- 🔭 I’m currently working on [ForestTech](https://github.com/ForestTechMC)
+- 🔭 I’m currently Senior Developer for [ForestCraft](https://forestcraft.cz/)
 
-- 🔭 I’m currently working on [DevSchool](https://github.com/DevSchoolCZ)
-
-- 🔭 I’m currently working on [ForestCraft](https://forestcraft.cz/)
+- 🔭 I’m currently working on starting project [iVantional](https://github.com/iVantional)
 
 - 💬 Ask me about **Java, JS, Kotlin and more**
 
@@ -21,7 +20,6 @@
 
 <h3>Other links</h3>
 
-* <a href="https://www.instagram.com/fly_ultra" target="_blank">Instagram</a>
 * <a href="https://gitlab.com/Flajus" target="_blank">GitLab</a>
 
 <h3 align="left">Languages and Tools:</h3>
