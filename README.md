@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently Senior Developer for [ForestCraft](https://forestcraft.cz/)
 
+- 🔭 I’m currently Technik (Java Developer) for [Qplay](https://www.qplay.cz/)
+
 - 🔭 I’m currently working on starting project [iVantional](https://github.com/iVantional)
 
 - 💬 Ask me about **Java, JS, Kotlin and more**
