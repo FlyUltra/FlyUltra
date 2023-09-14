@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Filip "Fly" Zeman</h1>
 <h3 align="center">Im mainly SoftWare Engineer</h3>
 
-- ☕ I will create a custom minecraft plugin according to your wishes [Fiverr](https://www.fiverr.com/flyultra/create-a-custom-minecraft-plugin-according-to-your-wishes)
-
 - 🔭 I’m currently Developer/Co-Founder for cool advanced projects with Redis, and more on [ForestTech](https://github.com/ForestTechMC)
 
 - 🔭 I’m currently Instructor in [DevSchool](https://github.com/DevSchoolCZ)
