@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Filip "Fly" Zeman</h1>
 <h3 align="center">Im Software Engineer</h3>
 
-- 👑 I’m Owner of **[Venteria.cz](https://discord.gg/r7fMuF223f)** its complex Minecraft network
+- 👑 I’m Owner of **[Venteria.cz](https://discord.gg/r7fMuF223f)** its complex group, and community for all topics
 
 - 🔨 I’m Instructor, I sell curses and premium code more **[Venteria Tech](https://discord.gg/A3XybA2xp9)**
 
