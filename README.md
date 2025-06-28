@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">- 📧 [flyultra@venteria.cz](mailto:flyultra@venteria.cz)  <br>- 💼 [LinkedIn](https://www.linkedin.com/in/filip-zeman-310286246/)</p>
+- 📧 [flyultra@venteria.cz](mailto:flyultra@venteria.cz)<br>
+- 💼 [LinkedIn](https://www.linkedin.com/in/filip-zeman-310286246/)
 
 ###
 
@@ -74,23 +75,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
-###
-
-<br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FlyUltra/FlyUltra/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FlyUltra/FlyUltra/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FlyUltra/FlyUltra/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<br clear="both">
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=FlyUltra&theme=dracula&column=-1&row=1&margin-w=1&margin-h=1&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FlyUltra&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
