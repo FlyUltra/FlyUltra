@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">Market-Venue.com 2025+<br>- Small company that focuses into implementing coding into market<br><br>Venteria 2023+-2025<br>- Economy based Minecraft gaming portal, that using newest technologies</p>
+<p align="left">Market-Venue.com 2025+<br>- Small company that focuses into implementing coding into market<br><br>Venteria 2023-2025<br>- Economy based Minecraft gaming portal, that using newest technologies</p>
 
 ###
 
